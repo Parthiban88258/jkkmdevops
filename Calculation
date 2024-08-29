@@ -5,6 +5,8 @@ for(int i ; i < a.size() ; i++){
 val = val + a[i];
 }
 
-return val 
+return val ;
+
+int sub=0;
 
 }
