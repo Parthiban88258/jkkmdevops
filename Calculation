@@ -7,4 +7,6 @@ val = val + a[i];
 
 return val 
 
+int sub=0;
+
 }
